@@ -20,7 +20,7 @@ var_dump("true, ");
 var_dump("Hello My Friend, ");
 
 //var_export() - Similar to var_dump(). Outputs a strubg representation of a variable.
-var_export("Hello");
+var_export("Hello There");
 ?>
 
 <!DOCTYPE html>
