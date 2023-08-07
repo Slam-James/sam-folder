@@ -1,0 +1,3 @@
+<?php
+echo "One fateful day, while exploring a long-abandoned Jedi outpost, Kaela stumbled upon an ancient holocron. The holocron contained the teachings of a forgotten Jedi Master, Joran Kae, who had prophesied the rise of a new hero to challenge the Dominion and restore balance to the galaxy. Kaela's destiny was now intertwined with the fate of the galaxy itself. Guided by the holocron's teachings, Kaela set out on a journey to find the scattered remnants of the Jedi Order. Along the way, she encountered a charismatic smuggler named Renn, who had a mysterious past and a heart of gold. Together, they formed an unlikely alliance, determined to rally the remaining Jedi and ignite a spark of rebellion against the Dominion."
+?>
